@@ -99,5 +99,7 @@ COVID_19_statistics %>%
   theme_bw()
 ```
 
+# GitHub link:
+https://github.com/Anan-Jiang/STA304
 
 # References
